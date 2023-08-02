@@ -55,9 +55,7 @@ body {
 
 .home {
    height: 100vh;
-   background: url('https://drive.google.com/file/d/1u_YJpRo-gabdQHaZ-n6spMJaUqITgMOb/view?usp=drivesdk') no-repeat;
-   background-size: cover;
-   background-position: center;
+   background: #53000E;
    height: 100vh;
    display: flex;
    align-items: center;
