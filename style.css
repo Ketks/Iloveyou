@@ -55,7 +55,7 @@ body {
 
 .home {
    height: 100vh;
-   background: url('./img/dayan.jpg') no-repeat;
+   background: url('20230802143024.jpg') no-repeat;
    background-size: cover;
    background-position: center;
    display: flex;
