@@ -10,7 +10,6 @@ html {
 }
 
 body {
-   background: #53000E;
    display: flex;
    flex-direction: column;
    max-width: 1440px;
@@ -55,6 +54,7 @@ body {
 }
 
 .home {
+   background: #53000E;
    height: 100vh;
    display: flex;
    align-items: center;
