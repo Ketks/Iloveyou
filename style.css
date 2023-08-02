@@ -10,6 +10,7 @@ html {
 }
 
 body {
+   background: #53000E;
    display: flex;
    flex-direction: column;
    max-width: 1440px;
@@ -55,9 +56,6 @@ body {
 
 .home {
    height: 100vh;
-   background-image: url('https://github.com/Ketks/Iloveyou/blob/3a2317afef48069478668d22a6bcc9ec1b087668/dayan.jpeg') no-repeat;
-   background-size: cover;
-   background-position: center;
    display: flex;
    align-items: center;
    padding: 0 5%;
