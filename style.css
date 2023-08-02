@@ -54,7 +54,10 @@ body {
 }
 
 .home {
-   background: #53000E;
+   height: 100vh;
+   background: url('https://github.com/Ketks/Iloveyou/blob/3a2317afef48069478668d22a6bcc9ec1b087668/dayan.jpeg') no-repeat;
+   background-size: cover;
+   background-position: center;
    height: 100vh;
    display: flex;
    align-items: center;
