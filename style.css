@@ -55,7 +55,7 @@ body {
 
 .home {
    height: 100vh;
-   background: url('https://github.com/Ketks/Iloveyou/blob/0fbef260a228242dc3b27136a7561bd75d7aa689/20230802143024.jpg') no-repeat;
+   background-image: url('https://github.com/Ketks/Iloveyou/blob/0fbef260a228242dc3b27136a7561bd75d7aa689/20230802143024.jpg') no-repeat;
    background-size: cover;
    background-position: center;
    display: flex;
